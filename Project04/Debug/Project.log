@@ -1,0 +1,14 @@
+﻿Build started 5/9/2016 8:16:26 PM.
+     1>Project "C:\CS271\Project04\Project.vcxproj" on node 2 (Build target(s)).
+     1>_MASM:
+         Assembling Project4.asm...
+         cmd.exe /C "C:\Users\HerpDerp\AppData\Local\Temp\tmpba5f98892aaa4476ae0d38cc90aaff9c.cmd"
+         ml.exe /c /nologo /Sg /Zi /Fo"Debug\Project4.obj" /Fl"Project.lst" /I "c:\Irvine" /W3 /errorReport:prompt  /TaProject4.asm
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\CS271\Project04\Debug\Project.exe" /NOLOGO /LIBPATH:c:\Irvine user32.lib irvine32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\CS271\Project04\Debug\Project.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE:NO /IMPLIB:"C:\CS271\Project04\Debug\Project.lib" /MACHINE:X86 /SAFESEH:NO Debug\Project4.obj
+         Project.vcxproj -> C:\CS271\Project04\Debug\Project.exe
+     1>Done Building Project "C:\CS271\Project04\Project.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.80
